@@ -1,4 +1,4 @@
 module.exports = {
-  purge: ["./index.html", "./src/**/*.vue"],
+  content: ["./index.html", "./src/**/*.vue"],
   theme: {},
 };
